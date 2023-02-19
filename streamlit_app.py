@@ -32,3 +32,4 @@ streamlit.dataframe(fruityvice_normalized)
 #streamlit.text(fruityvice_response.json())
 
 
+import snowflake.connector
